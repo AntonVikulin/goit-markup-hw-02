@@ -36,13 +36,6 @@ header {
   color: #757575;
 }
 
-.footer-contacts {
-  font-style: normal;
-  line-height: 24px;
-  letter-spacing: 0.03em;
-  color: rgba(255, 255, 255, 0.6);
-}
-
 .link:hover,
 .link:focus {
   color: #2196f3;
@@ -74,9 +67,6 @@ h1 {
   text-align: center;
   letter-spacing: 0.06em;
   color: #ffffff;
-}
-
-.instruments {
 }
 
 .instruments-none {
@@ -150,6 +140,13 @@ footer {
   font-style: normal;
   line-height: 24px;
   color: #ffffff;
+}
+
+.footer-contacts {
+  font-style: normal;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  color: rgba(255, 255, 255, 0.6);
 }
 
 button {
